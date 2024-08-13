@@ -1,4 +1,26 @@
-### Hi there 👋
+#### Hi there 👋
+##### My name is Rodrigo Fúnes
+###### I’m currently studying a degree in Systems Engineering.
+### 
+
+<section align="center">Web development with</section>
+<p align="center">  
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />    
+  </a>
+</p>
+<section align="center">UI/UX</section>
+<p align="center">  
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=figma,xd" />
+  </a>
+</p>
+<section align="center">I’m currently learning</section>
+<p align="center">  
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react,sass" />
+  </a>
+</p>
 
 <!--
 **REliezer/REliezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
