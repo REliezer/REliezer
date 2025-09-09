@@ -1,68 +1,56 @@
-#### Hi there 👋
-##### My name is Rodrigo Fúnes
-###### I’m currently studying a degree in Systems Engineering.
-### 
+![Header](./github-header-banner.png)
 
-<section align="center">Web development with</section>
-<p align="center">  
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />    
-  </a>
-</p>
-<section align="center">UI/UX</section>
-<p align="center">  
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=figma,xd" />
-  </a>
-</p>
-<section align="center">I’m currently learning</section>
-<p align="center">  
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,sass" />
-  </a>
+# 👋 Hola, soy Rodrigo  
+
+💻 **Desarrollador Web Frontend** con pasión por crear interfaces modernas, rápidas y centradas en el usuario.  
+Me enfoco en:  
+- 🚀 Rendimiento (lazy loading, optimización de imágenes, code splitting)  
+- 🎨 Diseño UI/UX intuitivo  
+- ♻️ Código limpio y componentes reutilizables  
+
+Mi meta: transformar ideas en productos digitales que aporten valor real y medible a los negocios.  
+
+---
+
+## 🚀 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,tailwind,react" />
 </p>
 
-<!--
-**REliezer/REliezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts" />
+</p>
 
-Here are some ideas to get you started:
+## 🎨 UI/UX
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🗄 Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-<table class="table">
-  <thead>
-    <tr>
-      <th scope="col" colspan="2">Lenguajes de Programación</th>
-      <th scope="col" colspan="2">DESARROLLO WEB – FRONT-END</th>
-      
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Java</td>
-      <td>HTML/HTML5</td>
-      <td>Bootstrap</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Visual Basic .NET</td>
-      <td>CSS</td>
-      <td>JavaScript</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Python</td>
-      <td>Sass</td>
-      <td>React</td>
-    </tr>
-  </tbody>
-</table>
--->
+## ⚙️ DevOps / Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,postman,terraform" />
+</p>
+
+---
+
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=REliezer&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REliezer&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Conecta conmigo
+<p align="center">
+  | <a href="https://portafolio-refe.vercel.app/">Portafolio</a>
+  | <a href="https://www.linkedin.com/in/rodrigo-fúnes">LinkedIn</a>
+  | <a href="mailto:rodrigofunes@hotmail.es">Email</a> |
+</p>
